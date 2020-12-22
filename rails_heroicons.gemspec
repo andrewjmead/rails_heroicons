@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = RailsHeroicons::VERSION
   spec.authors     = ["Andrew Mead"]
   spec.email       = ["andrew@mead.io"]
-  spec.homepage    = "https://github.com/andrewjmead/heroicons"
+  spec.homepage    = "https://github.com/andrewjmead/rails_heroicons"
   spec.summary     = "Use heroicons.com in your Rails projects."
   spec.description = "Use heroicons.com in your Rails projects."
   spec.license     = "MIT"
