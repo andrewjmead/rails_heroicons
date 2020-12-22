@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = RailsHeroicons::VERSION
   spec.authors     = ["Andrew Mead"]
   spec.email       = ["andrew@mead.io"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of RailsHeroicons."
-  spec.description = "TODO: Description of RailsHeroicons."
+  spec.homepage    = "https://github.com/andrewjmead/heroicons"
+  spec.summary     = "Use heroicons.com in your Rails projects."
+  spec.description = "Use heroicons.com in your Rails projects."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
