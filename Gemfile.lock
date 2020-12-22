@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails_heroicons (0.3.0)
+    rails_heroicons (0.4.0)
       rails (~> 6.0.3, >= 6.0.3.4)
 
 GEM
