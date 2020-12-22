@@ -1,3 +1,5 @@
+[Español](README-spanish.md)
+
 # Rails Heroicons
 Use icons from [heroicons.com](https://heroicons.com) in your Rails applications.
 
