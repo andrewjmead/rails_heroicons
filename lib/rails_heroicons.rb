@@ -1,3 +1,4 @@
+require 'rails_heroicons/icons'
 require "rails_heroicons/railtie"
 
 module RailsHeroicons
