@@ -13,3 +13,6 @@ gemspec
 
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
+
+# Use Nokogiri for HTML manipulation
+gem 'nokogiri', '~> 1.10.10'
