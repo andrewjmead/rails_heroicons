@@ -68,8 +68,8 @@ De cualquier manera...
 
 Tú puedes usar la opción `style` para personalizar el estilo del icono. Hay dos valores válidos:
 
-* `:solid` - Esto es el valor predeterminado. Esto dibuja un ícono sólido (se refiere a pequeño en) [heroicons.com](https://heroicons.com))
-* `:outline` - Esto dibujara un icono con contorno (se refiere a un ícono mediano en)  [heroicons.com](https://heroicons.com))
+* `:solid` - Esto es el valor predeterminado. Esto dibuja un ícono sólido (se refiere a pequeño en [heroicons.com](https://heroicons.com))
+* `:outline` - Esto dibujara un icono con contorno (se refiere a un ícono mediano en [heroicons.com](https://heroicons.com))
 
 Tú puedes usar `style` para cambiarlo y poner contorno en cualquier versión de ícono.
 
