@@ -1,5 +1,3 @@
-[Read in English](README.md)
-
 [Leer en Español](README-spanish.md)
 
 # Rails Heroicons
