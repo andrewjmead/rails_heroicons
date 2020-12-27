@@ -1,4 +1,4 @@
-[English](README.md)
+[Read in English](README.md)
 
 # Rails Heroicons
 Usa iconos de [heroicons.com](https://heroicons.com) en tus aplicaciones de Rails.
