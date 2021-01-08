@@ -7,7 +7,7 @@ Use icons from [heroicons.com](https://heroicons.com) in your Rails applications
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rails_heroicons', '~> 0.5.0'
+gem 'rails_heroicons', '~> 0.6.0'
 ```
 
 And then execute:
