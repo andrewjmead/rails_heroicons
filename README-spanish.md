@@ -8,7 +8,7 @@ Agrega esta línea en el Gemfile de tu aplicación:
 
 
 ```ruby
-gem 'rails_heroicons', '~> 0.4.0'
+gem 'rails_heroicons', '~> 0.5.0'
 ```
 
 Y luego ejecuta:
