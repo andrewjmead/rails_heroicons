@@ -17,6 +17,7 @@ module RailsHeroicons
       if class_name.present?
         frag = Nokogiri::HTML.fragment(file_data)
         frag.child.set_attribute('class', class_name)
+        frag.child.set_attribute('alt', name)
         file_data = frag.to_s
       end
 
